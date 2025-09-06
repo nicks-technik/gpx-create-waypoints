@@ -31,11 +31,9 @@ Before running the scripts, create a `.env` file in the root of the project. Thi
 
 # Input and output files for pdf2csv.py
 PDF_FILE=data/AlpCrossHotels.pdf
-CSV_FILE=data/AlpCrossHotels.csv
-
-# Input and output files for main.py
-INPUT_CSV_FILE=data/AlpCrossHotels.csv
-OUTPUT_GPX_FILE=data/AlpCrossHotels.gpx
+CSV_FILE=data/hotels.csv
+CSV_W_COOR_FILE=data/hotelswithcoor.csv
+GPX_FILE=data/AlpCrossHotels.gpx
 
 # Nominatim settings for geocoding.py
 NOMINATIM_USER_AGENT=gpx-creator-tool
@@ -44,23 +42,34 @@ NOMINATIM_DELAY_SECONDS=1
 
 ## Usage
 
-1. **Prepare your data:**
-   Make sure the input files specified in the `.env` file exist. By default, it expects `data/AlpCrossHotels.pdf`.
+This project consists of several scripts that work together to generate a GPX file from hotel data.
 
-2. **Convert PDF to CSV (if needed):**
-   If you have a PDF file with hotel data, you can convert it to a CSV file using the `pdf2csv.py` script.
-   ```bash
-   python src/pdf2csv.py
-   ```
+1.  **`src/pdf2csv.py` (Optional: Convert PDF to CSV):**
+    If your hotel data is in a PDF file, this script can convert it into a CSV format.
+    *   **Description:** Reads hotel data from the PDF file specified by `PDF_FILE` in `.env` and converts it to a CSV file, saved as `CSV_FILE` in `.env`.
+    *   **How to run:**
+        ```bash
+        uv run python src/pdf2csv.py
+        ```
 
-3. **Run the main script:**
-   Execute the main script to generate the GPX file from the CSV data.
-   ```bash
-   python src/main.py
-   ```
+2.  **`src/main.py` (Main GPX Generation Script):**
+    This is the primary script that orchestrates the geocoding and GPX file generation.
+    *   **Description:** Reads hotel data from the input CSV file (`CSV_FILE` in `.env`), uses the geocoding service to get coordinates, and then generates the GPX file (`GPX_FILE` in `.env`).
+    *   **How to run:**
+        ```bash
+        uv run python src/main.py
+        ```
 
-4. **Find the output:**
-   The generated GPX file will be saved as specified in the `OUTPUT_GPX_FILE` variable in your `.env` file (e.g., `data/AlpCrossHotels.gpx`).
+3.  **Internal Modules:**
+    The following scripts are internal modules used by `src/main.py` and are not typically run directly by the user:
+
+    *   **`src/geocoding.py`:**
+        *   **Description:** Handles the conversion of addresses to geographical coordinates (latitude and longitude) using the Nominatim service. It includes logic for rate limiting and error handling during API calls.
+    *   **`src/gpx_generator.py`:**
+        *   **Description:** This module is called by `src/main.py` to generate the GPX file from the geocoded hotel data, creating waypoints with names, descriptions, and symbols (e.g., "Hotel" icon).
+
+4.  **Output:**
+    The generated GPX file will be saved as specified in the `GPX_FILE` variable in your `.env` file (e.g., `data/AlpCrossHotels.gpx`).
 
 ## Contributing
 
