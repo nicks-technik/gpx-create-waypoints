@@ -8,3 +8,5 @@ __pycache__/
 
 # Environment
 .env
+/build/
+/src/gpx_project.egg-info/
