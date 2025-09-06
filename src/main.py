@@ -24,7 +24,7 @@ def load_hotels_from_csv(file_path):
         return None
 
 
-if __name__ == "__main__":
+def run_main():
     hotels_df = load_hotels_from_csv(csv_file)
     if hotels_df is not None:
         print("Hotels loaded from CSV:")
@@ -134,3 +134,6 @@ if __name__ == "__main__":
         # Create GPX file
         create_gpx_file(hotels_df, gpx_file)
         print(f"GPX file '{gpx_file}' created successfully.")
+
+if __name__ == "__main__":
+    run_main()
