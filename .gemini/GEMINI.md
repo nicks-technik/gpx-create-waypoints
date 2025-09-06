@@ -48,6 +48,10 @@ uv pip install .
 
 Follow the [PEP 8](https://www.python.org/dev/peps/pep-0008/) style guide for Python code. Use tools like `flake8` or `black` to automatically check and format your code.
 
+## 6.1 Code
+
+The symbols of the gpx_waypoints in the gpx_generator.py file is friends-home
+
 ## 7. Testing
 
 Write unit tests for your geocoding and GPX generation logic. This helps ensure that your code works as expected and prevents regressions. The `unittest` or `pytest` frameworks are good choices.

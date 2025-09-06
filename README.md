@@ -66,7 +66,7 @@ This project consists of several scripts that work together to generate a GPX fi
     *   **`src/geocoding.py`:**
         *   **Description:** Handles the conversion of addresses to geographical coordinates (latitude and longitude) using the Nominatim service. It includes logic for rate limiting and error handling during API calls.
     *   **`src/gpx_generator.py`:**
-        *   **Description:** This module is called by `src/main.py` to generate the GPX file from the geocoded hotel data, creating waypoints with names, descriptions, and symbols (e.g., "Hotel" icon).
+        *   **Description:** This module is called by `src/main.py` to generate the GPX file from the geocoded hotel data, creating waypoints with names, descriptions, and symbols (e.g., SYM="friends-home" icon).
 
 4.  **Output:**
     The generated GPX file will be saved as specified in the `GPX_FILE` variable in your `.env` file (e.g., `data/AlpCrossHotels.gpx`).
