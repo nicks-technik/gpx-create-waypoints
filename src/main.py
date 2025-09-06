@@ -127,6 +127,9 @@ if __name__ == "__main__":
         )
 
         hotels_df.to_csv(csv_w_coor_file, sep=";", index=False, encoding="utf-8")
-        #    df.to_csv(csv_path, sep=';', index=False, mode='a', header=header)
 
         print(f"Hotels not found:\n{hotels_not_found}")
+
+        # Create GPX file
+        create_gpx_file(hotels_df, gpx_file)
+        print(f"GPX file '{gpx_file}' created successfully.")
