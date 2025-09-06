@@ -6,6 +6,7 @@ import pandas as pd
 from dotenv import load_dotenv
 
 from src.geocoding import get_gps_coordinates
+from src.gpx_generator import create_gpx_file
 
 load_dotenv()
 
