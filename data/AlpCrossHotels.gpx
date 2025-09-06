@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <wpt lat="48.8191422" lon="10.0768181">
+    <name>H+ Hotel Limes Thermen Aalen</name>
+    <desc>Straße: Osterbucher Platz 1, Telefon: 07361 9440, Website: h-hotels.com, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8346269" lon="10.0919632">
+    <name>City Hotel Antik</name>
+    <desc>Straße: Stuttgarter Straße 45 - 47, Telefon: 07361 57160, Website: hotel-antik.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8428208" lon="10.0974129">
+    <name>MAXX Hotel Aalen</name>
+    <desc>Straße: Hugo-Therer-Str. 6, Telefon: 07361 97340, Website: maxxhotel.com, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8359044" lon="10.0910034">
+    <name>Aalener Ratshotel</name>
+    <desc>Straße: Friedrichstr. 7, Telefon: 07361 95840, Website: aalener-ratshotel.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8355621" lon="10.0887488">
+    <name>Design Lifestyle Hotel Estilo</name>
+    <desc>Straße: Gartenstr. 30, Telefon: 07361  780780, Website: shotels.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8168064" lon="10.1428944">
+    <name>Landgasthof Läuterhäusle</name>
+    <desc>Straße: Waldhäuser Str.109, Telefon: 07361  98890, Website: laeuterhaeusle.de, Entfernung: 5,2 km, Hm: 53 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8600719" lon="10.1027899">
+    <name>Hotel Wilder Mann</name>
+    <desc>Straße: Karlstr. 2-4, Telefon: 07361 71366, Website: wildermann-aalen.de, Entfernung: 2,6 km, Hm: 23 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.8629244" lon="10.1029351">
+    <name>Gasthof Goldener Stern</name>
+    <desc>Straße: Wilhelmstr.38, Telefon: 07361  71715, Website: gasthof-goldener-stern.de, Entfernung: 3,2 km, Hm: 13 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.7866246" lon="9.9805787">
+    <name>Campingplatz Hirtenteich</name>
+    <desc>Straße: Hasenweide 2, Telefon: 07365 296, Website: hirtenteich.camp, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.7795847" lon="9.9327683">
+    <name>Jägerhaus mit Fremdenzimmer</name>
+    <desc>Straße: Bartholomäerstr.41, Telefon: 07361 6907, Website: jaegerhaus-heubach.de, Entfernung: 1,1 km, Hm: 2 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.7330683" lon="9.8601944">
+    <name>Franz-Keller-Haus (WH des SAV)</name>
+    <desc>Straße: Kaltes Feld, Telefon: 0160 99 21 99 38, Website: (Karin Adolf), Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.7349074" lon="9.8634906">
+    <name>Skihütte Degenfeld</name>
+    <desc>Telefon: 07171 81388, Website: skiclub-degenfeld.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.7118725" lon="9.8776621">
+    <name>Hotel Garni Silberdistel</name>
+    <desc>Straße: Kreuzbergstraße 32, Telefon: 07332 3732, Website: hotel-garni-silberdistel.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6641161" lon="9.9111492">
+    <name>Landgasthof Rössle</name>
+    <desc>Straße: Albstraße 9, Telefon: 07332 923900, Website: roessle.steinenkirch.de, Entfernung: 1,5 km, Hm: 144 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6266177" lon="9.8232996">
+    <name>Hotel und Restaurant Krone</name>
+    <desc>Straße: Stuttgarter Str. 148, Telefon: 07331 30560, Website: Hotel-krone-geislingen.de, Entfernung: 2,2 km, Hm: 4 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6293397" lon="9.8410918">
+    <name>5 Täler Camping Längental</name>
+    <desc>Straße: Längental 1, Telefon: 0163 1531267, Website: 5taelercamping.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6592394" lon="9.819674">
+    <name>Kuchalber Hof</name>
+    <desc>Straße: Kuchalb 10, Telefon: 07162 940940, Website: kuchalber-hof.de, Entfernung: 1,5 km, Hm: 0 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.639973" lon="9.7196808">
+    <name>Wasserberghaus</name>
+    <desc>Telefon: 07161 811562, Website: wasserberghaus.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6097951" lon="9.6798848">
+    <name>Hotel Restaurant Talblick</name>
+    <desc>Straße: Ditzenbacher Str. 85, Telefon: 07334 921230, Website: talblick-auendorf.de, Entfernung: 2 km, Hm: 96 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5881606" lon="9.6947208">
+    <name>Vitalhotel Sanct Bernhard</name>
+    <desc>Straße: Sonnenbühl 1, Telefon: 07334 96410, Website: vitalhotel-sanct-bernhard.de, Entfernung: 1,6 km, Hm: 14 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6403003" lon="9.6509314">
+    <name>Gästezimmer Cavallino</name>
+    <desc>Straße: Hauptstraße 25, Telefon: 07164 147237, Website: cavallino-gammelshausen.de, Entfernung: 1,5 km, Hm: 118 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6191288" lon="9.6364466">
+    <name>Kornberghütte</name>
+    <desc>Straße: Kornberg 1, Telefon: 0157 56991064, Website: kornberghuette.de, Entfernung: 1,8 km, Hm: 110 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6130112" lon="9.6006565">
+    <name>Naturfreundehaus Boßlerhaus</name>
+    <desc>Straße: am Boßler, Telefon: 07164 9150571, Website: naturfreunde-gp.de, Entfernung: 1,5 km, Hm: 30 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5942381" lon="9.5994545">
+    <name>Weilheimer Skihütte</name>
+    <desc>Telefon: 07023 3584, Website: tsv-weilheim.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.6160067" lon="9.5945279">
+    <name>Deutsches Haus</name>
+    <desc>Straße: Kaltenwanghof 1, Telefon: 07023 740098, Website: deutsches-haus-weilheim.de, Entfernung: 2,1 km, Hm: 24 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5613522" lon="9.6275466">
+    <name>Albhotel Malakoff</name>
+    <desc>Straße: Malakoffstraße 21, Telefon: 07335 9245090, Website: albhotel-malakoff.com, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5888336" lon="9.470261">
+    <name>Burg Teck / Wanderheim des SAV</name>
+    <desc>Straße: Teckstrasse 100, Telefon: 07021  55208, Website: burg-teck-alb.de, Entfernung: 2,2 km, Hm: 190 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5769625" lon="9.4258347">
+    <name>Bellerhof - Whiskey und  Unterkunft</name>
+    <desc>Straße: Berghof 1a, Telefon: 07021 51892, Website: dannes.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5883937" lon="9.4481352">
+    <name>Apartmenthaus Däschler</name>
+    <desc>Straße: Brühlstr. 12, Telefon: 07021 9820252, Website: apartmenthaus-daeschler.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5671074" lon="9.4056217">
+    <name>Hotel-Restaurant Beurener Hof</name>
+    <desc>Straße: Hohenneuffenstr. 16, Telefon: 07025 91011 0, Website: beurener-hof.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.569062" lon="9.4061213">
+    <name>Hotel Garni Schwanen</name>
+    <desc>Straße: Kelterstr. 6, Telefon: 07025 2290, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5661173" lon="9.407226">
+    <name>Pension Schönblick</name>
+    <desc>Straße: Drosselweg 12, Telefon: 07025 3592, Website: pensionschoenblick.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5699375" lon="9.406459">
+    <name>Gästehaus Lichterturm</name>
+    <desc>Straße: Löwenstr. 1, Telefon: 07025 843955, Website: gaestehaus-lichterturm-beuren.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5655072" lon="9.3984089">
+    <name>Wohnmobilstellplatz</name>
+    <desc>Straße: Am Thermalbad 5, Telefon: 07025 910500, Website: beuren.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5539927" lon="9.3779629">
+    <name>Hotel Garni Hartmann</name>
+    <desc>Straße: Oberer Graben 2a, Telefon: 07025 2754, Website: hotel-garni-hartmann.de, Entfernung: 1,9 km, Hm: 143 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5543561" lon="9.3760592">
+    <name>Hotel Traube</name>
+    <desc>Straße: Hauptstr. 24, Telefon: 07025 92090, Website: traube-neuffen.de, Entfernung: 1,8 km, Hm: 144 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5509199" lon="9.3761002">
+    <name>Wohnmobilstellplatz</name>
+    <desc>Straße: Schützenhausweg 50, Telefon: 07025 106-0, Website: neuffen.de, Entfernung: 2 km, Hm: 148 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5376517" lon="9.4158839">
+    <name>Burrenhof Gastronomie</name>
+    <desc>Straße: Burrenhof, Telefon: 07026 7346, Website: erwin-waldner.de/burrenhof, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5023337" lon="9.3760597">
+    <name>Hotel Graf Eberhard</name>
+    <desc>Straße: Bei den Thermen 2, Telefon: 07125 1480, Website: hotel-graf-eberhard.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5031998" lon="9.3735333">
+    <name>Hotel Quellenhof garni</name>
+    <desc>Straße: Bei den Thermen 16-18, Telefon: 07125 15050, Website: quellenhof-badurach.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.493705" lon="9.4001528">
+    <name>Bischoffs</name>
+    <desc>Straße: Pfählerstraße 7, Telefon: 07125 947330, Website: bischoffs-badurach.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4935223" lon="9.3982425">
+    <name>Flair Hotel Vier Jahreszeiten</name>
+    <desc>Straße: Stuttgarter Str. 5, Telefon: 07125 94340, Website: flairhotel-vierjahreszeiten.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4933849" lon="9.3873986">
+    <name>Jugendherberge Bad Urach</name>
+    <desc>Straße: Seltbachstraße 9, Telefon: 07125 8025, Website: jugendherberge-bad-urach.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4929069" lon="9.4008205">
+    <name>Hotel Restaurant Cafe Buck</name>
+    <desc>Straße: Neue Str. 5-7, Telefon: 07125 94940, Website: hotel-buck.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.504009" lon="9.3808153">
+    <name>Ferienwohnung Eisele</name>
+    <desc>Straße: Breitensteinstr. 65, Telefon: 07125 70792, Website: ferienwohnung-eisele.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4931888" lon="9.3975304">
+    <name>Stift Urach</name>
+    <desc>Straße: Bismarckstraße 12, Telefon: 07125 94990, Website: stifturach.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5061323" lon="9.4269278">
+    <name>Campingplatz Pfählhof</name>
+    <desc>Straße: Pfählhof 2, Telefon: 07125 8098, Website: pfaehlhof.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5005204" lon="9.3772832">
+    <name>Wohnmobilstellplatz</name>
+    <desc>Straße: Bäderstraße, Telefon: 07125 94320, Website: badurach-tourismus.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4868756" lon="9.2183446">
+    <name>City Hotel Fortuna</name>
+    <desc>Straße: Am Echazufer 22, Telefon: 07121 9240, Website: fortuna-hotels.de, Entfernung: 1,5 km, Hm: 22 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4994489" lon="9.1502719">
+    <name>Hotel Fortuna Reutlingen / Tübingen</name>
+    <desc>Straße: Carl-Zeiss-Str. 75, Telefon: 07121 5840, Website: fortuna-hotels.de, Entfernung: 4,7 km, Hm: 62 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.5643566" lon="9.2253512">
+    <name>Hotel &amp; Restaurant Klostermühle</name>
+    <desc>Straße: Neckartenzlinger Str. 90, Telefon: 07127  81170, Website: klostermuehle-reutlingen.de, Entfernung: 4 km, Hm: 50 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4961431" lon="9.2064598">
+    <name>Hotel Germania</name>
+    <desc>Straße: Unter den Linden 20, Telefon: 07121 31900, Website: germania-hotel.de, Entfernung: 3,8 km, Hm: 34 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.496791" lon="9.2111109">
+    <name>Hotel Württemberger Hof</name>
+    <desc>Straße: Bahnhofstr. 12, Telefon: 07121 9479950, Website: hotel-wuerttemberger-hof.de, Entfernung: 3,8 km, Hm: 34 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.49143" lon="9.24014">
+    <name>Achalm Hotel &amp; Restaurant</name>
+    <desc>Straße: Gewand 2, Telefon: 07121 4820, Website: achalm.com, Entfernung: 3,1 km, Hm: 111 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4193523" lon="9.1513015">
+    <name>Wanderheim Roßberghaus</name>
+    <desc>Straße: Roßberg, Telefon: 07072 7007, Website: wanderheim-rossberg.de, Entfernung: 1,8 km, Hm: 192 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4186592" lon="9.2544391">
+    <name>Umweltbildungszentrum Listhof</name>
+    <desc>Straße: Friedrich-List-Hof 1, Telefon: 07121 270392, Website: listhof-reutlingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.46287" lon="9.22686">
+    <name>Hotel Restaurant Klostergarten</name>
+    <desc>Straße: Klosterstraße 30, Telefon: 07121 9941-0, Website: klostergarten-pfullingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4546977" lon="9.0966409">
+    <name>Hotel Arcis</name>
+    <desc>Straße: Bahnhofstraße 10, Telefon: 07072 918-0, Website: hotel-arcis.de, Entfernung: 1,3 km, Hm: 20 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4532941" lon="9.1026102">
+    <name>Gästehaus Brigitte</name>
+    <desc>Straße: Hohenstaufenstraße 5, Telefon: 07072 920025, Website: gaestehaus-brigitte.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4088482" lon="9.0656337">
+    <name>Fischers Hotel Garni Brauhaus</name>
+    <desc>Straße: Auf der Lehr 30, Telefon: 07473 9544-0, Website: hotel-garni-moessingen.de, Entfernung: 4,1 km, Hm: 88 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4133851" lon="9.1247897">
+    <name>Ferienwohnung Haus Bolbergblick</name>
+    <desc>Straße: Panoramastr. 1, Telefon: 07473 9509946, Website: moessingen.de, Entfernung: 1,1 km, Hm: 25 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4198795" lon="9.1156948">
+    <name>Ferienappartment Lehner</name>
+    <desc>Straße: Panoramastraße 79, Telefon: 07473  25387, Website: moessingen.de/ferienwohnung, Entfernung: 0,1 km, Hm: 3 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4145776" lon="9.1182401">
+    <name>Ferienhaus Lotte</name>
+    <desc>Straße: Gartenstraße 50, Telefon: 0174 9224616, Website: ferienwohnung-oeschingen.de, Entfernung: 0,6 km, Hm: 10 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4154161" lon="9.1143702">
+    <name>Villa Lou</name>
+    <desc>Straße: Gustav-Schöller-Straße 11, Telefon: 07473  270810, Website: villa-lou.de, Entfernung: 0,5 km, Hm: 16 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.4111146" lon="9.2606196">
+    <name>Forellenhof Rössle I Hotel &amp; Restaurant</name>
+    <desc>Straße: Heerstraße 20, Telefon: 07129 92970, Website: forellenhof-roessle.de, Entfernung: 4,0 km, Hm: 245 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3086441" lon="9.2460837">
+    <name>Hotel-Restaurant Rössle</name>
+    <desc>Straße: Marktstraße 48, Telefon: 07124 9250, Website: hotel-restaurant-roessle.de, Entfernung: 1,1 km, Hm: 56 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3194323" lon="9.1943331">
+    <name>Ferienwohnung Schwäbische Alb</name>
+    <desc>Straße: Schützenstraße 7, Telefon: 0152 29590070, Website: schwaebische-alb-ferienwohnung.de, Entfernung: 2,2 km, Hm: 60 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3506033" lon="9.194286">
+    <name>Romantik Hotel I Restaurant Hirsch</name>
+    <desc>Straße: Im Dorf 12, Telefon: 07128 92910, Website: restaurant-hotel-hirsch.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3493163" lon="9.1765436">
+    <name>Jugendherberge Erpfingen</name>
+    <desc>Straße: Auf der Reute 1, Telefon: 07128 1652, Website: jugendherberge-erpfingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3520428" lon="9.1841921">
+    <name>Ferien- und Erlebnisdorf Sonnenmatte</name>
+    <desc>Straße: Sonnenmatte 51, Telefon: 07128 92990, Website: die-sonnenmatte.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3638955" lon="9.1843728">
+    <name>AZUR Rosencamping Schwäbische Alb</name>
+    <desc>Straße: Hardtweg 82, Telefon: 07218 466, Website: azur-camping.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3830303" lon="9.155413">
+    <name>Landhotel Sonnenbühl</name>
+    <desc>Straße: Egelsbergstraße 12, Telefon: 07128 92830, Website: landhotel-sonnenbuehl.de, Entfernung: 4,0 km, Hm: 65 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2771605" lon="9.1648743">
+    <name>Hotel Landgasthof Wiesental</name>
+    <desc>Straße: Gauzolfstr. 23, Telefon: 07475 953600, Website: hotel-fink-wiesental.de, Entfernung: 5,1 km, Hm: 60 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.298596" lon="9.0974406">
+    <name>Ferienwohnung mit Hund auf der Zollernalb</name>
+    <desc>Straße: Silcherweg 43, Telefon: 07475 4476, Website: landgasthof-lauchertquelle.de, Entfernung: 1,2 km, Hm: 20 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.26836" lon="9.11372">
+    <name>Älbler-Nest auf Hofgut Küche</name>
+    <desc>Straße: Hof Küche 4, Telefon: 07475 7605, Website: ferienwohnung-hofgut-kueche.de, Entfernung: 2,5 km, Hm: 20 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3043468" lon="8.9940666">
+    <name>Wanderheim Nägelehaus</name>
+    <desc>Straße: Raichberg 1, Telefon: 07432 21715, Website: naegelehaus.de, Entfernung: 1,5 km, Hm: 68 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.3024036" lon="8.9818819">
+    <name>Berghotel Zollersteighof</name>
+    <desc>Straße: Zollersteighof 1, Telefon: 07432 21840, Website: hotel-restaurant-zollersteighof.de, Entfernung: 1,9 km, Hm: 54 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2839312" lon="8.9992271">
+    <name>Schwabennestle Onstmettingen</name>
+    <desc>Straße: Hauptstr. 15-1, Telefon: 0176 72931155, Website: schwabennestle.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2443288" lon="8.9736103">
+    <name>Ferienhaus Am Irrenbächle</name>
+    <desc>Straße: Unter Hornau 23, Telefon: 0176 81029016, Website: ferienwohnung-irrenbaechle.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2764603" lon="8.8579995">
+    <name>Hotel Thum</name>
+    <desc>Straße: Klausenweg 20, Telefon: 07433 96900, Website: hotel-thum-balingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2712766" lon="8.8514306">
+    <name>Jugendgästehaus</name>
+    <desc>Straße: Schloßstr. 5, Telefon: 07433 20805, Website: jugendgaestehaus-balingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2721478" lon="8.8590755">
+    <name>Hotel Stadt Balingen</name>
+    <desc>Straße: Hirschbergstraße 48, Telefon: 07433 260070, Website: hotel-stadt-balingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2700241" lon="8.8525461">
+    <name>Wohnmobilstellplatz</name>
+    <desc>Straße: Heinzlenstraße, Telefon: 07433 170-119, Website: balingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2000629" lon="8.8392956">
+    <name>Ferienwohnung Haus Elfi</name>
+    <desc>Straße: Oberhauserstraße 19, Telefon: 07436 275, Website: fewo-haus-elfi.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2116007" lon="8.7579876">
+    <name>Hotel-Café Baier</name>
+    <desc>Straße: Balinger Str. 1, Telefon: 07427 2550, Website: cafe-baier.de, Entfernung: 4,0 km, Hm: 53 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2110167" lon="8.7704235">
+    <name>Camping Schömberger Stausee</name>
+    <desc>Straße: Beim Stausee 2, Telefon: 07427 91111, Website: heinerscamp.de, Entfernung: 2,0 km, Hm: 55 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.2010917" lon="8.7787163">
+    <name>Hotel Landhaus Obere Säge</name>
+    <desc>Straße: Obere Säge 1-3, Telefon: 07427 / 931930, Website: obere-saege.de, Entfernung: 1,6 km</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.1059086" lon="8.7557142">
+    <name>Gästehaus Klippeneck</name>
+    <desc>Straße: Auf dem Klippeneck 7, Telefon: 07424 84634, Website: klippeneck-wb.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.0508153" lon="8.808087">
+    <name>Landgasthof Waldeck</name>
+    <desc>Straße: Risiberg 8, Telefon: 07424 2419, Website: waldeck-risiberg.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.1488451" lon="8.78644">
+    <name>Best Western Schlossberg-Hotel</name>
+    <desc>Straße: Daimlerstr. 2, Telefon: 07426 5269817, Website: hotel-wehingen.de, Entfernung: 3,7 km, Hm: 4 Hm</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.0013752" lon="8.7803185">
+    <name>Hotel Traube Revital</name>
+    <desc>Straße: Untere Hauptstraße 43, Telefon: 07461 9380, Website: hoteltraube.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="48.0021146" lon="8.7781892">
+    <name>Gasthof zum Löwen</name>
+    <desc>Straße: Karlstr. 4, Telefon: 07461 93300, Website: loewen-wurmlingen.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="47.9854472" lon="8.8230974">
+    <name>Légère Hotel</name>
+    <desc>Straße: Königstr. 25, Telefon: 07461 96160, Website: legere-hotels-online.com/tuttlingen, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="47.9851871" lon="8.8191403">
+    <name>Hotel Rössle</name>
+    <desc>Straße: Honbergstr. 8, Telefon: 07461 2913, Website: hotelroessle.eu, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="47.9857034" lon="8.8208384">
+    <name>Légère Express</name>
+    <desc>Straße: Am Seltenbach 2-3, Telefon: 07461 965040, Website: charlys-house.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="47.9829541" lon="8.8125953">
+    <name>Hotel-Cafè Schlack</name>
+    <desc>Straße: Bahnhofstr. 59, Telefon: 07461 9440, Website: hotelschlack.de</desc>
+    <sym>friends-home</sym>
+  </wpt>
+  <wpt lat="47.9846947" lon="8.8203541">
+    <name>Hotel Restaurant Ritter</name>
+    <desc>Straße: Königstr. 12, Telefon: 07461  966330, Website: hotel-restaurant-ritter.de, Entfernung: direkt</desc>
+    <sym>friends-home</sym>
+  </wpt>
+</gpx>
