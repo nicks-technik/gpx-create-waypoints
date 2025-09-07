@@ -3,16 +3,11 @@
 import os
 
 import pandas as pd
+import numpy as np
 from dotenv import load_dotenv
 
 from src.geocoding import get_gps_coordinates
 from src.gpx_generator import create_gpx_file
-
-load_dotenv()
-
-gpx_file = os.getenv("GPX_FILE")
-csv_file = os.getenv("CSV_FILE")
-csv_w_coor_file = os.getenv("CSV_W_COOR_FILE")
 
 
 def load_hotels_from_csv(file_path):
@@ -25,6 +20,12 @@ def load_hotels_from_csv(file_path):
 
 
 def run_main():
+    load_dotenv()
+
+    gpx_file = os.getenv("GPX_FILE")
+    csv_file = os.getenv("CSV_FILE")
+    csv_w_coor_file = os.getenv("CSV_W_COOR_FILE")
+
     hotels_df = load_hotels_from_csv(csv_file)
     if hotels_df is not None:
         print("Hotels loaded from CSV:")
@@ -32,8 +33,10 @@ def run_main():
         print(hotels_df)
 
         # Add Latitude and Longitude columns
-        hotels_df["Latitude"] = None
-        hotels_df["Longitude"] = None
+        hotels_df["Latitude"] = np.nan
+        hotels_df["Longitude"] = np.nan
+        hotels_df["Latitude"] = hotels_df["Latitude"].astype(float)
+        hotels_df["Longitude"] = hotels_df["Longitude"].astype(float)
 
         counter_Betrieb_Strasse_Stadt_geocodes = 0
         counter_Strasse_Stadt_geocodes = 0
